@@ -6,5 +6,7 @@ Stores and retrieves user login authentication profiles and chat information fro
 Stores data locally on the android device using the interface SharedPreferences.
 
 Uses the UI layout Listview (a list of scrollable items) and an Adapter object that pulls content from the cloud database Firebase and coverts the list item result into a view that’s placed into the list.
+
+
 <img src="FlashChat1.png">
 <img src="FlashChat2.png">
